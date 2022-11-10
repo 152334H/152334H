@@ -1,9 +1,17 @@
-# Pwn, Programming, Python
+# Things I do
 
-I used to do CTFs a lot, and I made [pwnscripts](https://github.com/152334H/pwnscripts) to automate the dirty work. Sometimes I make [writeups](https://github.com/IRS-Cybersec/ctfdump), along with the rest of [my team](https://irscybersec.tk/).
+* [CTFs](https://github.com/IRS-Cybersec/ctfdump) (with [IRS-Cybersec](https://irscybersec.tk/)). 
+  * [We organised one too](https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0)
+  * I also made a [pwn](https://github.com/152334H/pwnscripts) library extension, but it's deprecated
+* basic [coding exercises](https://github.com/152334H/exercises) and [Advent of Code](https://github.com/152334H/aoc)
+* a [blog](https://152334h.github.io)
+* Webdev
+  * Peronsal [React.js project](https://github.com/152334H/react-viewer-viewer) (and [REST API](https://github.com/152334H/react-viewer-viewer-api))
+  * [Online TTS service](https://github.com/152334H/CTN-webapp)
+* Machine Learning
+  * [TTS models](https://152334h.github.io/disco-narrator/), for that TTS site above.
+  * [Code generation](https://github.com/152334H/Copilot-at-home) (soon) 
 
-More recently, I kinda-sorta organised [a local CTF](https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0) for pre-university students. I've also been learning [basic algorithm stuff](https://github.com/152334H/exercises) (plus [Advent of Code](https://github.com/152334H/aoc)) and [webdev](private_repo_coming_soon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334H&layout=compact)
 
-Python's my heart, but Rust is pretty cool too. 
