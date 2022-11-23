@@ -8,10 +8,11 @@
 * Webdev
   * Peronsal [React.js project](https://github.com/152334H/react-viewer-viewer) (and [REST API](https://github.com/152334H/react-viewer-viewer-api))
   * [Online TTS service](https://github.com/152334H/CTN-webapp)
+  * [GPT-J editor](https://github.com/152334H/gpt-j-editor)
 * Machine Learning
   * [TTS models](https://152334h.github.io/disco-narrator/), for that TTS site above.
-  * [Code generation](https://github.com/152334H/Copilot-at-home) (soon) 
-
+  * Using language models for [Code generation](https://github.com/152334H/Copilot-at-home) and [writing](https://github.com/152334H/gpt-j-editor)
+  * Stable diffusion
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334H&layout=compact)
 
