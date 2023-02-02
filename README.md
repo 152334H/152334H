@@ -15,5 +15,5 @@
 * a [blog](https://152334h.github.io)
 * basic [coding exercises](https://github.com/152334H/exercises) and [Advent of Code](https://github.com/152334H/aoc)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334H&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334h&layout=compact)
 
