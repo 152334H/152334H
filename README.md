@@ -17,3 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334h&layout=compact)
 
+More details on the things I've made can be found at my [about page](https://152334h.github.io).
