@@ -7,6 +7,7 @@
   * Peronsal [React.js project](https://github.com/152334H/react-viewer-viewer) (and [REST API](https://github.com/152334H/react-viewer-viewer-api))
   * [Online TTS service](https://github.com/152334H/CTN-webapp)
   * [GPT-J editor](https://github.com/152334H/gpt-j-editor)
+  * [Hackathons](https://github.com/152334H/fithack-backend)
 * Machine Learning
   * [TTS models](https://152334h.github.io/disco-narrator/), for that TTS site above.
   * Using language models for [Code generation](https://github.com/152334H/Copilot-at-home) and [writing](https://github.com/152334H/gpt-j-editor)
