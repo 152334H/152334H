@@ -5,7 +5,7 @@
   * I also made a [pwn](https://github.com/152334H/pwnscripts) library extension, but it's deprecated
 * Webdev
   * Peronsal [React.js project](https://github.com/152334H/react-viewer-viewer) (and [REST API](https://github.com/152334H/react-viewer-viewer-api))
-  * [Online TTS service](https://github.com/152334H/CTN-webapp)
+  * [TTS web service](https://github.com/152334H/CTN-webapp)
   * [GPT-J editor](https://github.com/152334H/gpt-j-editor)
   * [Hackathons](https://github.com/152334H/fithack-backend)
 * Machine Learning
