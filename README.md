@@ -5,11 +5,12 @@
   * I also made a [pwn](https://github.com/152334H/pwnscripts) library extension, but it's deprecated
 * Webdev
   * Peronsal [React.js project](https://github.com/152334H/react-viewer-viewer) (and [REST API](https://github.com/152334H/react-viewer-viewer-api))
-  * [TTS web service](https://github.com/152334H/CTN-webapp)
+  * [TTS web service](https://github.com/152334H/CTN-webapp) (offline)
   * [GPT-J editor](https://github.com/152334H/gpt-j-editor)
   * [Hackathons](https://github.com/152334H/fithack-backend)
 * Machine Learning
-  * [TTS models](https://152334h.github.io/disco-narrator/), for that TTS site above.
+  * :turtle: TorToiSe-TTS [fast inference](https://github.com/152334H/tortoise-tts-fast) && [fine-tuning](https://github.com/152334H/DL-Art-School) 
+  * (older) TalkNet [TTS models](https://152334h.github.io/disco-narrator/), for that TTS site above.
   * Using language models for [Code generation](https://github.com/152334H/Copilot-at-home) and [writing](https://github.com/152334H/gpt-j-editor)
   * Stable diffusion
 * a [blog](https://152334h.github.io)
