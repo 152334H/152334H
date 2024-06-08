@@ -22,3 +22,18 @@ Many TTS companies reached out to me for my work on Tortoise, and I eventually a
 ## Pre-2022 era
 If you're interested in the work I was doing (webdev, CTF, general software engineering, competitive programming, game dev, etc) prior to 2022, you can read a more comprehensive account at my [about page](https://152334h.github.io).
 
+
+```math
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 100vw;
+opacity: 0.2;
+background: url('https://github.com/152334H/152334H/blob/master/2100826.png?raw=true');
+"]{}
