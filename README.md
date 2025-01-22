@@ -1,16 +1,13 @@
 # `whoami`
-I'm Sherman Chann (main), a Machine Learning Engineer at [ElevenLabs](https://elevenlabs.io).
+I'm Sherman Chann (main), a Machine Learning Engineer at [somewhere].
+
+I like pretraining & supercomputing work.
 
 #### If you'd like to chat, please contact me over twitter/discord/[linkedin](https://www.linkedin.com/in/sherman-chann/)/email (username @ gmail).
 
 Do not contact me for audio-related discussions; I obviously cannot say anything useful in that sector.
 
-##### I have predominantly worked on LLMs for the past 2 years, and my knowledge in other areas is atrophied/irrelevant by now.
-
-Rough breakdown of my experience (or lackthereof) coverage
-* obvious basic knowledge (hf familiarity, basic finetuning, gpu poor tricks, inference engines, evals)
-* small-scale pretraining ("[0-499](https://transparencyreport.google.com/user-data/us-national-security)" GPUs), mostly in pure pytorch / with transformerengine.
-
+---
 
 ## Pre-2022 era
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=152334h&layout=compact)
